@@ -19,6 +19,7 @@ Currently, I'm working as a back-end developer at HG Insights.
 <p>
   <img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-gray?logo=linux&logoSize=auto" /> &nbsp;
   <img alt="macOS" height="25" src="https://img.shields.io/badge/macOS-gray?logo=apple&logoSize=auto" /> &nbsp;
+  <img alt="Git" height="25" src="https://img.shields.io/badge/Git-gray?logo=git&logoSize=auto" /> &nbsp;
   <img alt="Docker" height="25" src="https://img.shields.io/badge/Docker-gray?logo=docker&logoSize=auto" /> &nbsp;
   <img alt="iTerm2" height="25" src="https://img.shields.io/badge/iTerm2-gray?logo=iterm2&logoSize=auto" /> &nbsp;
   <img alt="Sublime Text" height="25" src="https://img.shields.io/badge/Sublime_Text-gray?logo=sublime-text&logoSize=auto" /> &nbsp;
@@ -37,7 +38,9 @@ Currently, I'm working as a back-end developer at HG Insights.
   <img alt="Ruby" height="25" src="https://img.shields.io/badge/Ruby-gray?logo=ruby&logoSize=auto" /> &nbsp;
   <img alt="Ruby on Rails" height="25" src="https://img.shields.io/badge/Ruby on Rails-gray?logo=rubyonrails&logoSize=auto" /> &nbsp;
   <img alt="Elixir" height="25" src="https://img.shields.io/badge/Elixir-gray?logo=elixir&logoSize=auto" /> &nbsp;
+  <img alt="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoSize=auto" /> &nbsp;
   <img alt="Node.js" height="25" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs&logoSize=auto" /> &nbsp;
+  <img alt="React" height="25" src="https://img.shields.io/badge/React-gray?logo=react&logoSize=auto" /> &nbsp;
   <img alt="Vue.js" height="25" src="https://img.shields.io/badge/Vue.js-gray?logo=vuedotjs&logoSize=auto" />
 </p>
 
