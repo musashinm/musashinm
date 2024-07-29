@@ -54,6 +54,29 @@ Currently, I'm working as a back-end developer at HG Insights.
   <img alt="Yarn" height="25" src="https://img.shields.io/badge/Yarn-gray?logo=yarn&logoSize=auto" />
 </p>
 
+### Past stack...
+
+<p>
+  <img alt=".NET" height="20" src="https://img.shields.io/badge/.NET-gray?logo=dotnet&logoSize=auto" /> &nbsp;
+  <img alt="CodeIgniter" height="20" src="https://img.shields.io/badge/CodeIgniter-gray?logo=codeigniter&logoSize=auto" /> &nbsp;
+  <img alt="Drupal" height="20" src="https://img.shields.io/badge/Drupal-gray?logo=drupal&logoSize=auto" /> &nbsp;
+  <img alt="jQuery" height="20" src="https://img.shields.io/badge/jQuery-gray?logo=jquery&logoSize=auto" /> &nbsp;
+  <img alt="Laravel" height="20" src="https://img.shields.io/badge/Laravel-gray?logo=laravel&logoSize=auto" /> &nbsp;
+  <img alt="Magento" height="20" src="https://img.shields.io/badge/Magento-gray?logo=magento&logoSize=auto" /> &nbsp;
+  <img alt="MariaDB" height="20" src="https://img.shields.io/badge/MariaDB-gray?logo=mariadb&logoSize=auto" /> &nbsp;
+  <img alt="MySQL" height="20" src="https://img.shields.io/badge/MySQL-gray?logo=mysql&logoSize=auto" /> &nbsp;
+</p>
+<p>
+  <img alt="Oracle" height="20" src="https://img.shields.io/badge/Oracle-gray?logo=oracle&logoSize=auto" /> &nbsp;
+  <img alt="Phoenix" height="20" src="https://img.shields.io/badge/Phoenix-gray?logo=phoenixframework&logoSize=auto" /> &nbsp;
+  <img alt="PHP" height="20" src="https://img.shields.io/badge/PHP-gray?logo=php&logoSize=auto" /> &nbsp;
+  <img alt="Redux" height="20" src="https://img.shields.io/badge/Redux-gray?logo=redux&logoSize=auto" /> &nbsp;
+  <img alt="Sinatra" height="20" src="https://img.shields.io/badge/Sinatra-gray?logo=rubysinatra&logoSize=auto" /> &nbsp;
+  <img alt="Symfony" height="20" src="https://img.shields.io/badge/Symfony-gray?logo=symfony&logoSize=auto" /> &nbsp;
+  <img alt="WordPress" height="20" src="https://img.shields.io/badge/WordPress-gray?logo=wordpress&logoSize=auto" /> &nbsp;
+  <img alt="Zend" height="20" src="https://img.shields.io/badge/Zend-gray?logo=zend&logoSize=auto" />
+</p>
+
 ## What I've been up to... 🎧🎬
 
 <p align="center">
