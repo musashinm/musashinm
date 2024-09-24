@@ -81,8 +81,10 @@ Currently, I'm working as a back-end developer at HG Insights.
 
 <p align="center">
   <a href="https://open.spotify.com/user/12156312060?si=35f075ff10a14051" title="Kleber Kihara's Spotify">
-    <img alt="Kleber Kihara's Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=12156312060&count=5&unique=true&width=300" />
-  </a><br />
+    <img alt="Kleber Kihara's Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=12156312060&count=5&unique=true&width=500" />
+  </a>
+</p>
+<p align="center">
   <a href="https://trakt.tv/vip/referral/efaf435cc728962d39d94ae82aa5bb5b" title="Kleber Kihara's Trakt.tv">
     <img alt="Kleber Kihara's Trakt.tv" src="https://widgets.trakt.tv/users/9267061b5d8e14d4848ea5da6b438c65/watched/fanart2@1x.jpg" />
   </a>
