@@ -17,15 +17,17 @@ Currently, I'm working as a back-end developer at HG Insights.
 ## Which is my stack? 🤓
 
 <p>
+  <img alt="Logitech G" height="30" src="https://img.shields.io/badge/Logitech G-gray?logo=logitechg&logoSize=auto" /> &nbsp;
+</p>
+<p>
   <img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-gray?logo=linux&logoSize=auto" /> &nbsp;
   <img alt="macOS" height="25" src="https://img.shields.io/badge/macOS-gray?logo=apple&logoSize=auto" /> &nbsp;
   <img alt="Git" height="25" src="https://img.shields.io/badge/Git-gray?logo=git&logoSize=auto" /> &nbsp;
   <img alt="Docker" height="25" src="https://img.shields.io/badge/Docker-gray?logo=docker&logoSize=auto" /> &nbsp;
   <img alt="iTerm2" height="25" src="https://img.shields.io/badge/iTerm2-gray?logo=iterm2&logoSize=auto" /> &nbsp;
-  <img alt="Sublime Text" height="25" src="https://img.shields.io/badge/Sublime_Text-gray?logo=sublime-text&logoSize=auto" /> &nbsp;
-  <img alt="Insomnia" height="25" src="https://img.shields.io/badge/Insomnia-gray?logo=insomnia&logoSize=auto" />
+  <img alt="VS Code" height="25" src="https://img.shields.io/badge/VS Code-gray?logo=vscode&logoSize=auto" /> &nbsp;
+  <img alt="Copilot" height="25" src="https://img.shields.io/badge/Copilot-gray?logo=githubcopilot&logoSize=auto" />
 </p>
-
 <p>
   <img alt="ElasticSearch" height="25" src="https://img.shields.io/badge/ElasticSearch-gray?logo=elasticsearch&logoSize=auto" /> &nbsp;
   <img alt="MongoDB" height="25" src="https://img.shields.io/badge/MongoDB-gray?logo=mongodb&logoSize=auto" /> &nbsp;
@@ -33,7 +35,6 @@ Currently, I'm working as a back-end developer at HG Insights.
   <img alt="RabbitMQ" height="25" src="https://img.shields.io/badge/RabbitMQ-gray?logo=rabbitmq&logoSize=auto" /> &nbsp;
   <img alt="Redis" height="25" src="https://img.shields.io/badge/Redis-gray?logo=redis&logoSize=auto" />
 </p>
-
 <p>
   <img alt="Ruby" height="25" src="https://img.shields.io/badge/Ruby-gray?logo=ruby&logoSize=auto" /> &nbsp;
   <img alt="Ruby on Rails" height="25" src="https://img.shields.io/badge/Ruby on Rails-gray?logo=rubyonrails&logoSize=auto" /> &nbsp;
@@ -43,7 +44,6 @@ Currently, I'm working as a back-end developer at HG Insights.
   <img alt="React" height="25" src="https://img.shields.io/badge/React-gray?logo=react&logoSize=auto" /> &nbsp;
   <img alt="Vue.js" height="25" src="https://img.shields.io/badge/Vue.js-gray?logo=vuedotjs&logoSize=auto" />
 </p>
-
 <p>
   <img alt="ESLint" height="25" src="https://img.shields.io/badge/ESLint-gray?logo=eslint&logoSize=auto" /> &nbsp;
   <img alt="GraphQL" height="25" src="https://img.shields.io/badge/GraphQL-gray?logo=graphql&logoSize=auto" /> &nbsp;
