@@ -1,5 +1,5 @@
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/Version-4.4-blue" /> &nbsp;
+  <img alt="Version" src="https://img.shields.io/badge/Version-4.5-blue" /> &nbsp;
   <img alt="Maintainability" src="https://img.shields.io/badge/Maintainability-B-green?logo=codeclimate&logoColor=white&logoSize=auto" /> &nbsp;
   <img alt="Coverage" src="https://img.shields.io/badge/Coverage-85%25-green?logo=codecov&logoColor=white&logoSize=auto" /> &nbsp;
   <img alt="Build" src="https://img.shields.io/badge/Build-Passing-green?logo=codeship&logoColor=white&logoSize=auto" /> &nbsp;
