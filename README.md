@@ -14,19 +14,20 @@ During this time, I had the opportunity to work for some big Brazilian companies
 
 Currently, I'm working as a back-end developer at HG Insights.
 
-## Which is my stack? 🤓
+## What is my stack? 🤓
 
-<p>
-  <img alt="Logitech G" height="30" src="https://img.shields.io/badge/Logitech G-gray?logo=logitechg&logoSize=auto" /> &nbsp;
-</p>
 <p>
   <img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-gray?logo=linux&logoSize=auto" /> &nbsp;
   <img alt="macOS" height="25" src="https://img.shields.io/badge/macOS-gray?logo=apple&logoSize=auto" /> &nbsp;
-  <img alt="Git" height="25" src="https://img.shields.io/badge/Git-gray?logo=git&logoSize=auto" /> &nbsp;
+</p>
+<p>
   <img alt="Docker" height="25" src="https://img.shields.io/badge/Docker-gray?logo=docker&logoSize=auto" /> &nbsp;
+  <img alt="Git" height="25" src="https://img.shields.io/badge/Git-gray?logo=git&logoSize=auto" /> &nbsp;
   <img alt="iTerm2" height="25" src="https://img.shields.io/badge/iTerm2-gray?logo=iterm2&logoSize=auto" /> &nbsp;
   <img alt="VS Code" height="25" src="https://img.shields.io/badge/VS Code-gray?logo=vscode&logoSize=auto" /> &nbsp;
-  <img alt="Copilot" height="25" src="https://img.shields.io/badge/Copilot-gray?logo=githubcopilot&logoSize=auto" />
+</p>
+<p>
+  <img alt="Claude" height="25" src="https://img.shields.io/badge/Claude-gray?logo=claude&logoSize=auto" />
 </p>
 <p>
   <img alt="ElasticSearch" height="25" src="https://img.shields.io/badge/ElasticSearch-gray?logo=elasticsearch&logoSize=auto" /> &nbsp;
