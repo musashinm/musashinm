@@ -17,6 +17,9 @@ Currently, I'm working as a back-end developer at HG Insights.
 ## What is my stack? 🤓
 
 <p>
+  <img alt="Logitech G HUB" height="30" src="https://img.shields.io/badge/Logitech G HUB-gray?logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDBCOEZDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTG9naXRlY2ggRzwvdGl0bGU%2BPHBhdGggZD0iTTEyLjU2NjQgMEMxMC45MTAxIDAgOS4zNTIuMzE0MyA3Ljg4ODcuOTQxNGMtMS40Nzk0LjYyNzEtMi43NjYgMS40ODMtMy44NTk0IDIuNTY4NC0xLjA5MzUgMS4wODU0LTEuOTU0OSAyLjM1OS0yLjU4MiAzLjgyMjItLjY0MzIgMS40NDczLS45NTc1IDMtLjk0MTQgNC42NTYzIDAgMS42NTYzLjMxNDIgMy4yMTY0Ljk0MTQgNC42Nzk3Ljg1MzcgMS45NzAyIDIuNjc2NCA0Ljc3MTEgNi40NDE0IDYuMzY3MkM5LjM1MiAyMy42Nzg0IDEwLjkxIDI0IDEyLjU2NjQgMjR2LTQuOTkyMmMtLjk4MDkgMC0xLjg5NzctLjE4NDgtMi43NS0uNTU0Ny0xLjY4NTItLjczMTMtMi45OTAzLTIuMDE2Ny0zLjczODMtMy43NDAyLS43NDY3LTEuNzIwNy0uNzM2LTMuNzU1IDAtNS40NTEyLjczNy0xLjY5ODEgMi4wMzE4LTIuOTk3NyAzLjczODMtMy43MzgzLjg1MjMtLjM2OTggMS43NjkxLS41NTQ2IDIuNzUtLjU1NDZabS4xNyA5Ljg0MTh2NC45NDM0aDUuODEyNHY1LjgxNDRoNC45NDUzVjkuODQxOFoiLz48L3N2Zz4%3D&logoSize=auto" />
+</p>
+<p>
   <img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-gray?logo=linux&logoSize=auto" /> &nbsp;
   <img alt="macOS" height="25" src="https://img.shields.io/badge/macOS-gray?logo=apple&logoSize=auto" />
 </p>
@@ -24,6 +27,7 @@ Currently, I'm working as a back-end developer at HG Insights.
   <img alt="Cloudflare" height="25" src="https://img.shields.io/badge/Cloudflare-gray?logo=cloudflare&logoSize=auto" /> &nbsp;
   <img alt="Docker" height="25" src="https://img.shields.io/badge/Docker-gray?logo=docker&logoSize=auto" /> &nbsp;
   <img alt="Git" height="25" src="https://img.shields.io/badge/Git-gray?logo=git&logoSize=auto" /> &nbsp;
+  <img alt="GitHub" height="25" src="https://img.shields.io/badge/GitHub-gray?logo=github&logoSize=auto" /> &nbsp;
   <img alt="GitLab" height="25" src="https://img.shields.io/badge/GitLab-gray?logo=gitlab&logoSize=auto" /> &nbsp;
   <img alt="iTerm2" height="25" src="https://img.shields.io/badge/iTerm2-gray?logo=iterm2&logoSize=auto" /> &nbsp;
   <img alt="VS Code" height="25" src="https://img.shields.io/badge/VS Code-gray?logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B&logoSize=auto" /> &nbsp;
