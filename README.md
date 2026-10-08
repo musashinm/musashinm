@@ -21,10 +21,13 @@ Currently, I'm working as a back-end developer at HG Insights.
   <img alt="macOS" height="25" src="https://img.shields.io/badge/macOS-gray?logo=apple&logoSize=auto" /> &nbsp;
 </p>
 <p>
+  <img alt="Cloudflare" height="25" src="https://img.shields.io/badge/Cloudflare-gray?logo=cloudflare&logoSize=auto" /> &nbsp;
   <img alt="Docker" height="25" src="https://img.shields.io/badge/Docker-gray?logo=docker&logoSize=auto" /> &nbsp;
   <img alt="Git" height="25" src="https://img.shields.io/badge/Git-gray?logo=git&logoSize=auto" /> &nbsp;
+  <img alt="GitLab" height="25" src="https://img.shields.io/badge/GitLab-gray?logo=gitlab&logoSize=auto" /> &nbsp;
   <img alt="iTerm2" height="25" src="https://img.shields.io/badge/iTerm2-gray?logo=iterm2&logoSize=auto" /> &nbsp;
   <img alt="VS Code" height="25" src="https://img.shields.io/badge/VS Code-gray?logo=vscode&logoSize=auto" /> &nbsp;
+  <img alt="Xcode" height="25" src="https://img.shields.io/badge/Xcode-gray?logo=xcode&logoSize=auto" />
 </p>
 <p>
   <img alt="Claude" height="25" src="https://img.shields.io/badge/Claude-gray?logo=claude&logoSize=auto" />
@@ -38,20 +41,25 @@ Currently, I'm working as a back-end developer at HG Insights.
 </p>
 <p>
   <img alt="Ruby" height="25" src="https://img.shields.io/badge/Ruby-gray?logo=ruby&logoSize=auto" /> &nbsp;
-  <img alt="Ruby on Rails" height="25" src="https://img.shields.io/badge/Ruby on Rails-gray?logo=rubyonrails&logoSize=auto" /> &nbsp;
-  <img alt="Elixir" height="25" src="https://img.shields.io/badge/Elixir-gray?logo=elixir&logoSize=auto" /> &nbsp;
   <img alt="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoSize=auto" /> &nbsp;
+  <img alt="TypeScript" height="25" src="https://img.shields.io/badge/TypeScript-gray?logo=typescript&logoSize=auto" /> &nbsp;
+  <img alt="Swift" height="25" src="https://img.shields.io/badge/Swift-gray?logo=swift&logoSize=auto" />
+</p>
+<p>
+  <img alt="Ruby on Rails" height="25" src="https://img.shields.io/badge/Ruby on Rails-gray?logo=rubyonrails&logoSize=auto" /> &nbsp;
   <img alt="Node.js" height="25" src="https://img.shields.io/badge/Node.js-gray?logo=nodedotjs&logoSize=auto" /> &nbsp;
-  <img alt="React" height="25" src="https://img.shields.io/badge/React-gray?logo=react&logoSize=auto" /> &nbsp;
-  <img alt="Vue.js" height="25" src="https://img.shields.io/badge/Vue.js-gray?logo=vuedotjs&logoSize=auto" />
+  <img alt="Vue.js" height="25" src="https://img.shields.io/badge/Vue.js-gray?logo=vuedotjs&logoSize=auto" /> &nbsp;
+  <img alt="Vite" height="25" src="https://img.shields.io/badge/Vite-gray?logo=vite&logoSize=auto" /> &nbsp;
+  <img alt="Tailwind CSS" height="25" src="https://img.shields.io/badge/Tailwind CSS-gray?logo=tailwindcss&logoSize=auto" />
 </p>
 <p>
   <img alt="ESLint" height="25" src="https://img.shields.io/badge/ESLint-gray?logo=eslint&logoSize=auto" /> &nbsp;
-  <img alt="GraphQL" height="25" src="https://img.shields.io/badge/GraphQL-gray?logo=graphql&logoSize=auto" /> &nbsp;
   <img alt="Jest" height="25" src="https://img.shields.io/badge/Jest-gray?logo=jest&logoSize=auto" /> &nbsp;
   <img alt="NPM" height="25" src="https://img.shields.io/badge/NPM-gray?logo=npm&logoSize=auto" /> &nbsp;
   <img alt="Prettier" height="25" src="https://img.shields.io/badge/Prettier-gray?logo=prettier&logoSize=auto" /> &nbsp;
+  <img alt="RSpec" height="25" src="https://img.shields.io/badge/RSpec-gray" /> &nbsp;
   <img alt="Rubocop" height="25" src="https://img.shields.io/badge/Rubocop-gray?logo=rubocop&logoSize=auto" /> &nbsp;
+  <img alt="Vitest" height="25" src="https://img.shields.io/badge/Vitest-gray?logo=vitest&logoSize=auto" /> &nbsp;
   <img alt="Yarn" height="25" src="https://img.shields.io/badge/Yarn-gray?logo=yarn&logoSize=auto" />
 </p>
 
@@ -59,18 +67,24 @@ Currently, I'm working as a back-end developer at HG Insights.
 
 <p>
   <img alt=".NET" height="20" src="https://img.shields.io/badge/.NET-gray?logo=dotnet&logoSize=auto" /> &nbsp;
+  <img alt="Apollo" height="20" src="https://img.shields.io/badge/Apollo-gray?logo=apollographql&logoSize=auto" /> &nbsp;
   <img alt="CodeIgniter" height="20" src="https://img.shields.io/badge/CodeIgniter-gray?logo=codeigniter&logoSize=auto" /> &nbsp;
   <img alt="Drupal" height="20" src="https://img.shields.io/badge/Drupal-gray?logo=drupal&logoSize=auto" /> &nbsp;
-  <img alt="jQuery" height="20" src="https://img.shields.io/badge/jQuery-gray?logo=jquery&logoSize=auto" /> &nbsp;
+  <img alt="Elixir" height="20" src="https://img.shields.io/badge/Elixir-gray?logo=elixir&logoSize=auto" /> &nbsp;
+  <img alt="GraphQL" height="20" src="https://img.shields.io/badge/GraphQL-gray?logo=graphql&logoSize=auto" /> &nbsp;
+  <img alt="jQuery" height="20" src="https://img.shields.io/badge/jQuery-gray?logo=jquery&logoSize=auto" />
+</p>
+<p>
   <img alt="Laravel" height="20" src="https://img.shields.io/badge/Laravel-gray?logo=laravel&logoSize=auto" /> &nbsp;
   <img alt="Magento" height="20" src="https://img.shields.io/badge/Magento-gray?logo=magento&logoSize=auto" /> &nbsp;
   <img alt="MariaDB" height="20" src="https://img.shields.io/badge/MariaDB-gray?logo=mariadb&logoSize=auto" /> &nbsp;
   <img alt="MySQL" height="20" src="https://img.shields.io/badge/MySQL-gray?logo=mysql&logoSize=auto" /> &nbsp;
-</p>
-<p>
   <img alt="Oracle" height="20" src="https://img.shields.io/badge/Oracle-gray?logo=oracle&logoSize=auto" /> &nbsp;
   <img alt="Phoenix" height="20" src="https://img.shields.io/badge/Phoenix-gray?logo=phoenixframework&logoSize=auto" /> &nbsp;
-  <img alt="PHP" height="20" src="https://img.shields.io/badge/PHP-gray?logo=php&logoSize=auto" /> &nbsp;
+  <img alt="PHP" height="20" src="https://img.shields.io/badge/PHP-gray?logo=php&logoSize=auto" />
+</p>
+<p>
+  <img alt="React" height="20" src="https://img.shields.io/badge/React-gray?logo=react&logoSize=auto" /> &nbsp;
   <img alt="Redux" height="20" src="https://img.shields.io/badge/Redux-gray?logo=redux&logoSize=auto" /> &nbsp;
   <img alt="Sinatra" height="20" src="https://img.shields.io/badge/Sinatra-gray?logo=rubysinatra&logoSize=auto" /> &nbsp;
   <img alt="Symfony" height="20" src="https://img.shields.io/badge/Symfony-gray?logo=symfony&logoSize=auto" /> &nbsp;
